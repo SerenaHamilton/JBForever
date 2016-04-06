@@ -14,7 +14,7 @@ data/cache/
 data/sessions/
 data/tmp/
 temp/
-var/cache/
+var/cache/*
 
 # Legacy ZF1
 demos/
